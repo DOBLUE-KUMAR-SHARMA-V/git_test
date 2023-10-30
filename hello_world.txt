@@ -1,0 +1,1 @@
+We need to install WSL extension to be able to use the ubuntu commands in the terminal in the VS Code
