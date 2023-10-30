@@ -1,1 +1,2 @@
 We need to install WSL extension to be able to use the ubuntu commands in the terminal in the VS Code
+used to git config --global core.editor "code --wait" so that when i forget to use -m command during commit a VS Code Tab will open where i can type the message that i need to commit
